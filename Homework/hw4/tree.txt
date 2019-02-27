@@ -1,0 +1,93 @@
+Script started on 2018-03-10 20:46:45-0800
+]0;005670557@csusb.edu@csevnc:~/cse330/hw4[005670557@csusb.edu@csevnc hw4]$ g++ -c BinaryTree_test.cpp
+]0;005670557@csusb.edu@csevnc:~/cse330/hw4[005670557@csusb.edu@csevnc hw4]$ g++ BinaryTree_test.o
+]0;005670557@csusb.edu@csevnc:~/cse330/hw4[005670557@csusb.edu@csevnc hw4]$ ./a.out
+Results while tree is empty# of Nodes: 0 
+# of Leaves: 0 
+# of Full Nodes: 0
+
+ Inserting 19, 3, 20, 1, 4 into tree and with results after each insert
+# of Nodes: 1 
+# of Leaves: 1 
+# of Full Nodes: 0
+is Binary Search Tree
+
+# of Nodes: 2 
+# of Leaves: 1 
+# of Full Nodes: 0
+is Binary Search Tree
+
+# of Nodes: 3 
+# of Leaves: 2 
+# of Full Nodes: 1
+is Binary Search Tree
+
+# of Nodes: 4 
+# of Leaves: 2 
+# of Full Nodes: 1
+is Binary Search Tree
+
+# of Nodes: 5 
+# of Leaves: 3 
+# of Full Nodes: 2
+is Binary Search Tree
+
+Print Tree
+19
+    L 3
+        L 1
+        R 4
+    R 20
+
+Inserting 100, 6, 60, 75, 1, 18, 22 into tree with results after each insert
+# of Nodes: 6 
+# of Leaves: 3 
+# of Full Nodes: 2
+is not Binary Search Tree
+
+# of Nodes: 7 
+# of Leaves: 4 
+# of Full Nodes: 3
+is not Binary Search Tree
+
+# of Nodes: 8 
+# of Leaves: 4 
+# of Full Nodes: 3
+is not Binary Search Tree
+
+# of Nodes: 9 
+# of Leaves: 5 
+# of Full Nodes: 4
+is not Binary Search Tree
+
+# of Nodes: 10 
+# of Leaves: 5 
+# of Full Nodes: 4
+is not Binary Search Tree
+
+# of Nodes: 11 
+# of Leaves: 6 
+# of Full Nodes: 5
+is not Binary Search Tree
+
+# of Nodes: 12 
+# of Leaves: 6 
+# of Full Nodes: 5
+is not Binary Search Tree
+
+Print Tree
+19
+    L 3
+        L 1
+            L 60
+            R 75
+        R 4
+            L 1
+            R 18
+    R 20
+        L 100
+            L 22
+        R 6
+]0;005670557@csusb.edu@csevnc:~/cse330/hw4[005670557@csusb.edu@csevnc hw4]$ exit
+
+Script done on 2018-03-10 20:47:09-0800

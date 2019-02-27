@@ -1,0 +1,16 @@
+Script started on 2018-01-29 08:20:18-0800
+]0;005670557@csusb.edu@jb358-1:~/cse330/hw1[005670557@csusb.edu@jb358-1 hw1]$ ./a.out
+Enter k: 4
+11 8 99 32 
+99 32 11 8 
+99 32 11 8 
+99 57 32 11 
+99 82 57 32 
+99 82 57 32 
+100 99 82 57 
+100 99 82 57 
+100 99 82 57 
+The 4 largest number is '57'
+]0;005670557@csusb.edu@jb358-1:~/cse330/hw1[005670557@csusb.edu@jb358-1 hw1]$ exit
+
+Script done on 2018-01-29 08:20:29-0800

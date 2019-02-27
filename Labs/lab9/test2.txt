@@ -1,0 +1,31 @@
+Script started on 2018-03-13 07:10:55-0700
+]0;005670557@csusb.edu@jb358-0:~/cse330/lab9[005670557@csusb.edu@jb358-0 lab9]$ g++ -c Unordered_map_test2.cpp
+]0;005670557@csusb.edu@jb358-0:~/cse330/lab9[005670557@csusb.edu@jb358-0 lab9]$ g++ Unore[Kdered [K_map_test2.o
+]0;005670557@csusb.edu@jb358-0:~/cse330/lab9[005670557@csusb.edu@jb358-0 lab9]$ ./a.out
+Jake:2 Sierra Madre
+Blue:20 2nd St
+Red:123 Main
+One more:Something
+Brown:45 First
+jill:400 Lakewood
+Jack:500 E St
+Green:Mile
+
+Erase Jack
+
+Find Green
+(Green:Mile)
+
+Find NotThere
+NotThere not found
+
+Jake:2 Sierra Madre
+Blue:20 2nd St
+Red:123 Main
+One more:Something
+Brown:45 First
+jill:400 Lakewood
+Green:Mile
+]0;005670557@csusb.edu@jb358-0:~/cse330/lab9[005670557@csusb.edu@jb358-0 lab9]$ exit
+
+Script done on 2018-03-13 07:11:22-0700

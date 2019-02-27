@@ -1,0 +1,9 @@
+Script started on 2018-01-30 22:39:58-0800
+]0;005670557@csusb.edu@jb358-1:~/cse330/lab3[005670557@csusb.edu@jb358-1 lab3]$ g__[K[K_+[K[K++ -c stri[K[K[K[KString.cpp
+]0;005670557@csusb.edu@jb358-1:~/cse330/lab3[005670557@csusb.edu@jb358-1 lab3]$ g_[K++ -c S[Ktest1.cpp
+]0;005670557@csusb.edu@jb358-1:~/cse330/lab3[005670557@csusb.edu@jb358-1 lab3]$ g++ String.o St[K[Ktest1.o
+]0;005670557@csusb.edu@jb358-1:~/cse330/lab3[005670557@csusb.edu@jb358-1 lab3]$ ./a.out
+SUCCESS
+]0;005670557@csusb.edu@jb358-1:~/cse330/lab3[005670557@csusb.edu@jb358-1 lab3]$ exit
+
+Script done on 2018-01-30 22:40:48-0800

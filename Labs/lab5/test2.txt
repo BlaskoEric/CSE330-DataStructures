@@ -1,0 +1,14 @@
+Script started on 2018-02-13 11:31:12-0800
+]0;005670557@csusb.edu@csevnc:~/cse330/lab5[005670557@csusb.edu@csevnc lab5]$ g++ -c List_test2.cpp
+]0;005670557@csusb.edu@csevnc:~/cse330/lab5[005670557@csusb.edu@csevnc lab5]$ g++ te[K[KList_test2.o
+]0;005670557@csusb.edu@csevnc:~/cse330/lab5[005670557@csusb.edu@csevnc lab5]$ ./a.out
+44 33 11 22 
+------------
+44 33 11 
+------------
+33 11 
+------------
+
+]0;005670557@csusb.edu@csevnc:~/cse330/lab5[005670557@csusb.edu@csevnc lab5]$ exit
+
+Script done on 2018-02-13 11:31:38-0800

@@ -1,0 +1,13 @@
+Script started on 2018-02-18 19:04:53-0800
+]0;005670557@csusb.edu@csevnc:~/cse330/lab6[005670557@csusb.edu@csevnc lab6]$ g++ -c Queue_test1.cpp
+]0;005670557@csusb.edu@csevnc:~/cse330/lab6[005670557@csusb.edu@csevnc lab6]$ g__[K[K++ Queue([K)t[K[K_test1 [K.o ../lab3/String.o
+]0;005670557@csusb.edu@csevnc:~/cse330/lab6[005670557@csusb.edu@csevnc lab6]$ ./a.out
+6
+5
+2.3
+2.3
+SUCCESS
+]0;005670557@csusb.edu@csevnc:~/cse330/lab6[005670557@csusb.edu@csevnc lab6]$ ^C
+]0;005670557@csusb.edu@csevnc:~/cse330/lab6[005670557@csusb.edu@csevnc lab6]$ exit
+
+Script done on 2018-02-18 19:05:36-0800

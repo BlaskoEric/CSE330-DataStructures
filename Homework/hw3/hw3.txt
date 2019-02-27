@@ -1,0 +1,15 @@
+Script started on 2018-03-03 15:53:14-0800
+]0;005670557@csusb.edu@csevnc:~/cse330/hw3[005670557@csusb.edu@csevnc hw3]$ g++ -c hw2[K3.cpp
+]0;005670557@csusb.edu@csevnc:~/cse330/hw3[005670557@csusb.edu@csevnc hw3]$ g++ hw3.o
+]0;005670557@csusb.edu@csevnc:~/cse330/hw3[005670557@csusb.edu@csevnc hw3]$ ./a.out
+L1
+15 20 25 30 35 40 
+L2
+5 10 11 25 33 40 
+Union
+5 10 11 15 20 25 30 33 35 40 
+Intersect
+25 40 
+]0;005670557@csusb.edu@csevnc:~/cse330/hw3[005670557@csusb.edu@csevnc hw3]$ exit
+
+Script done on 2018-03-03 15:53:33-0800

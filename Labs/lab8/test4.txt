@@ -1,0 +1,77 @@
+Script started on 2018-03-06 20:39:02-0800
+]0;005670557@csusb.edu@csevnc:~/cse330/lab8[005670557@csusb.edu@csevnc lab8]$ g++ -c Set_test4.cpp
+]0;005670557@csusb.edu@csevnc:~/cse330/lab8[005670557@csusb.edu@csevnc lab8]$ g++ Set_test4.o
+]0;005670557@csusb.edu@csevnc:~/cse330/lab8[005670557@csusb.edu@csevnc lab8]$ ./a.out
+Size = 0
+Empty? 1
+Print Tree
+6
+    L 2
+        L 1
+        R 5
+            L 3
+                R 4
+    R 8
+Count 5 = 1
+Size = 7
+Empty? 0
+Erase 2
+Print Tree
+6
+    L 3
+        L 1
+        R 5
+            L 4
+    R 8
+Size = 6
+Empty? 0
+Count 2 = 0
+Erase 6
+Print Tree
+8
+    L 3
+        L 1
+        R 5
+            L 4
+Copy Constructor
+Print Tree
+8
+    L 3
+        L 1
+        R 5
+            L 4
+Copy Size = 5
+Clear Copy
+Size = 0
+Empty? 1
+Iterate Over and Print Elements
+1 3 4 5 8 
+Find, return iterator, advance it
+Found 5
+Next value = 8
+Didn't find 6
+Insert 2, advance iter
+3
+Print Tree
+8
+    L 3
+        L 1
+            R 2
+        R 5
+            L 4
+Size = 6
+Insert 2 again
+2
+Size = 6
+Iterate Over and Print Elements
+1 2 3 4 5 8 
+Erase 2 with iter
+Print Tree
+8
+    L 3
+        L 1
+        R 5
+            L 4
+]0;005670557@csusb.edu@csevnc:~/cse330/lab8[005670557@csusb.edu@csevnc lab8]$ exit
+
+Script done on 2018-03-06 20:39:34-0800

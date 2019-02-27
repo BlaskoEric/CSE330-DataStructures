@@ -1,0 +1,9 @@
+Sc started on 2018-03-19 08:14:54-0700
+]0;005670557@csusb.edu@jb358-1:~/cse330/lab10[005670557@csusb.edu@jb358-1 lab10]$ g++ -c Priority_queue_test2.t[Kcpp
+]0;005670557@csusb.edu@jb358-1:~/cse330/lab10[005670557@csusb.edu@jb358-1 lab10]$ g++ Priority_queue_test2.o
+]0;005670557@csusb.edu@jb358-1:~/cse330/lab10[005670557@csusb.edu@jb358-1 lab10]$ a[K./a.out
+All tests passed.
+]0;005670557@csusb.edu@jb358-1:~/cse330/lab10[005670557@csusb.edu@jb358-1 lab10]$ ^C
+]0;005670557@csusb.edu@jb358-1:~/cse330/lab10[005670557@csusb.edu@jb358-1 lab10]$ exit
+
+Script done on 2018-03-19 08:15:22-0700

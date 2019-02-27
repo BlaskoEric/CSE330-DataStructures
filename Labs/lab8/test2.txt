@@ -1,0 +1,21 @@
+Script started on 2018-03-06 20:33:45-0800
+]0;005670557@csusb.edu@csevnc:~/cse330/lab8[005670557@csusb.edu@csevnc lab8]$ g++ -c Set_test2.cpp
+]0;005670557@csusb.edu@csevnc:~/cse330/lab8[005670557@csusb.edu@csevnc lab8]$ g++ Set_test2.o
+]0;005670557@csusb.edu@csevnc:~/cse330/lab8[005670557@csusb.edu@csevnc lab8]$ ./a.out
+Print Tree
+20
+    L 10
+        L 5
+        R 15
+    R 30
+        L 25
+        R 35
+Inorder Traversal
+5 10 15 20 25 30 35 
+Postorder Traversal
+5 15 10 25 35 30 20 
+Preorder Traversal
+20 10 5 15 30 25 35 
+]0;005670557@csusb.edu@csevnc:~/cse330/lab8[005670557@csusb.edu@csevnc lab8]$ exit
+
+Script done on 2018-03-06 20:34:06-0800

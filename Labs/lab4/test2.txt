@@ -1,0 +1,8 @@
+Script started on 2018-02-05 15:45:41-0800
+]777;notify;Command completed;./a.out]0;005670557@csusb.edu@jb358-15:~/cse330/lab4]7;file://jb358-15.cse.csusb.edu/home/csusb.edu/005670557/cse330/lab4[005670557@csusb.edu@jb358-15 lab4]$ g++ -c Vector_s[Ktest2.cpp
+]777;notify;Command completed;g++ -c Vector_test2.cpp]0;005670557@csusb.edu@jb358-15:~/cse330/lab4]7;file://jb358-15.cse.csusb.edu/home/csusb.edu/005670557/cse330/lab4[005670557@csusb.edu@jb358-15 lab4]$ g++ Vector_test2.o
+]777;notify;Command completed;g++ Vector_test2.o]0;005670557@csusb.edu@jb358-15:~/cse330/lab4]7;file://jb358-15.cse.csusb.edu/home/csusb.edu/005670557/cse330/lab4[005670557@csusb.edu@jb358-15 lab4]$ ./a.out
+SUCCESS
+]777;notify;Command completed;./a.out]0;005670557@csusb.edu@jb358-15:~/cse330/lab4]7;file://jb358-15.cse.csusb.edu/home/csusb.edu/005670557/cse330/lab4[005670557@csusb.edu@jb358-15 lab4]$ exit
+
+Script done on 2018-02-05 15:46:13-0800

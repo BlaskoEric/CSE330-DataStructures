@@ -1,0 +1,16 @@
+Script started on 2018-01-15 12:34:24-0800
+]0;005670557@csusb.edu@csevnc:~/lab1[005670557@csusb.edu@csevnc lab1]$ g++ -c lab1.cpp
+]0;005670557@csusb.edu@csevnc:~/lab1[005670557@csusb.edu@csevnc lab1]$ g++ lab1.cpp
+]0;005670557@csusb.edu@csevnc:~/lab1[005670557@csusb.edu@csevnc lab1]$ ./a.out
+Enter Expression: a+b-c
+ab+c-
+Enter Expression: a+b*c
+abc*+
+Enter Expression: (a+2)/(5-d)
+a2+5d-/
+Enter Expression: a+((b-d c)*d)/e
+abc-d*e/+
+Enter Expression: ^C
+]0;005670557@csusb.edu@csevnc:~/lab1[005670557@csusb.edu@csevnc lab1]$ exit
+
+Script done on 2018-01-15 12:35:44-0800

@@ -1,0 +1,40 @@
+Script started on 2018-03-06 20:32:47-0800
+]0;005670557@csusb.edu@csevnc:~/cse330/lab8[005670557@csusb.edu@csevnc lab8]$ g++ -c Set_test1.cpp
+]0;005670557@csusb.edu@csevnc:~/cse330/lab8[005670557@csusb.edu@csevnc lab8]$ g++ Set_test1.o
+]0;005670557@csusb.edu@csevnc:~/cse330/lab8[005670557@csusb.edu@csevnc lab8]$ ./a.out
+Print Tree
+6
+    L 2
+        L 1
+        R 5
+            L 3
+                R 4
+    R 8
+Min = 1
+Max = 8
+Remove 2
+Print Tree
+6
+    L 3
+        L 1
+        R 5
+            L 4
+    R 8
+Contains 2? 0
+Contains 4? 1
+Copy Constructor
+Remove 6
+Print Tree
+8
+    L 3
+        L 1
+        R 5
+            L 4
+Inorder Traversal
+1 3 4 5 8 
+Clear tree
+Print Tree
+Segmentation fault (core dumped)
+]0;005670557@csusb.edu@csevnc:~/cse330/lab8[005670557@csusb.edu@csevnc lab8]$ exit
+
+Script done on 2018-03-06 20:33:10-0800

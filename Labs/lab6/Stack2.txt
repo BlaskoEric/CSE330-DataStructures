@@ -1,0 +1,8 @@
+Script started on 2018-02-18 19:07:03-0800
+]0;005670557@csusb.edu@csevnc:~/cse330/lab6[005670557@csusb.edu@csevnc lab6]$ g++ 0c [K[K[K-c Stack_test2.cpp
+]0;005670557@csusb.edu@csevnc:~/cse330/lab6[005670557@csusb.edu@csevnc lab6]$ g++ Stack_test2.o ../lab3/String.o
+]0;005670557@csusb.edu@csevnc:~/cse330/lab6[005670557@csusb.edu@csevnc lab6]$ ./a.out
+SUCCESS
+]0;005670557@csusb.edu@csevnc:~/cse330/lab6[005670557@csusb.edu@csevnc lab6]$ exit
+
+Script done on 2018-02-18 19:07:36-0800

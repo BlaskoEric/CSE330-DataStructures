@@ -1,0 +1,8 @@
+Script started on 2018-02-13 11:30:18-0800
+]0;005670557@csusb.edu@csevnc:~/cse330/lab5[005670557@csusb.edu@csevnc lab5]$ g++ -c List)[K_ts[Kest1.cpp
+]0;005670557@csusb.edu@csevnc:~/cse330/lab5[005670557@csusb.edu@csevnc lab5]$ g++ List_test1.cpp[K[K[Ko
+]0;005670557@csusb.edu@csevnc:~/cse330/lab5[005670557@csusb.edu@csevnc lab5]$ ./a.out
+SUCCESS
+]0;005670557@csusb.edu@csevnc:~/cse330/lab5[005670557@csusb.edu@csevnc lab5]$ exit
+
+Script done on 2018-02-13 11:30:59-0800

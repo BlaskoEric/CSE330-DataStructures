@@ -1,0 +1,48 @@
+Script started on 2018-03-13 07:14:14-0700
+]0;005670557@csusb.edu@csevnc:~/cse330/lab9[005670557@csusb.edu@csevnc lab9]$ g++ -c Unordered_map)t[K[K_test3.cpp
+]0;005670557@csusb.edu@csevnc:~/cse330/lab9[005670557@csusb.edu@csevnc lab9]$ g++ Unordered_map_test3.o
+]0;005670557@csusb.edu@csevnc:~/cse330/lab9[005670557@csusb.edu@csevnc lab9]$ ./a.out
+bucket[0] size=3 (Jake:2 Sierra Madre) (Blue:20 2nd St) (Red:123 Main) 
+bucket[1] size=1 (One more:Something) 
+bucket[2] size=1 (Brown:45 First) 
+bucket[3] size=0 
+bucket[4] size=1 (Jack:500 E St) 
+bucket[5] size=0 
+bucket[6] size=2 (Green:Mile) (Jill:400 Lakewood) 
+(Jake:2 Sierra Madre) (Blue:20 2nd St) (Red:123 Main) (One more:Something) (Brown:45 First) (Jack:500 E St) (Green:Mile) (Jill:400 Lakewood) 
+
+After rehash(11)
+
+bucket[0] size=1 (Brown:45 First) 
+bucket[1] size=1 (Red:123 Main) 
+bucket[2] size=0 
+bucket[3] size=1 (Green:Mile) 
+bucket[4] size=2 (Jill:400 Lakewood) (Jack:500 E St) 
+bucket[5] size=0 
+bucket[6] size=0 
+bucket[7] size=0 
+bucket[8] size=1 (Jake:2 Sierra Madre) 
+bucket[9] size=2 (One more:Something) (Blue:20 2nd St) 
+bucket[10] size=0 
+(Brown:45 First) (Red:123 Main) (Green:Mile) (Jill:400 Lakewood) (Jack:500 E St) (Jake:2 Sierra Madre) (One more:Something) (Blue:20 2nd St) 
+
+bucket[0] size=2 (10:else) (25:something) 
+bucket[1] size=0 
+bucket[2] size=2 (17:eat) (12:monster) 
+bucket[3] size=1 (13:cookie) 
+bucket[4] size=0 
+(10:else) (25:something) (17:eat) (12:monster) (13:cookie) 
+
+After rehash(7)
+
+bucket[0] size=0 
+bucket[1] size=0 
+bucket[2] size=0 
+bucket[3] size=2 (17:eat) (10:else) 
+bucket[4] size=1 (25:something) 
+bucket[5] size=1 (12:monster) 
+bucket[6] size=1 (13:cookie) 
+(17:eat) (10:else) (25:something) (12:monster) (13:cookie) 
+]0;005670557@csusb.edu@csevnc:~/cse330/lab9[005670557@csusb.edu@csevnc lab9]$ exit
+
+Script done on 2018-03-13 07:14:45-0700

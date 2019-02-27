@@ -1,0 +1,28 @@
+Script started on 2018-02-05 15:44:53-0800
+]777;notify;Command completed;g++ -c Vector.h]0;005670557@csusb.edu@jb358-15:~/cse330/lab4]7;file://jb358-15.cse.csusb.edu/home/csusb.edu/005670557/cse330/lab4[005670557@csusb.edu@jb358-15 lab4]$ g++ Ve[K[K- [Kc Vector_test1.cpp
+]777;notify;Command completed;g++ -c Vector_test1.cpp]0;005670557@csusb.edu@jb358-15:~/cse330/lab4]7;file://jb358-15.cse.csusb.edu/home/csusb.edu/005670557/cse330/lab4[005670557@csusb.edu@jb358-15 lab4]$ g++ Vector_test1.o ../lab3/String.o
+]777;notify;Command completed;g++ Vector_test1.o ../lab3/String.o]0;005670557@csusb.edu@jb358-15:~/cse330/lab4]7;file://jb358-15.cse.csusb.edu/home/csusb.edu/005670557/cse330/lab4[005670557@csusb.edu@jb358-15 lab4]$ ./a.out
+
+default constructor
+v0: 10 20 
+
+copy constructor v1(v0)
+v0: 10 20 
+vi: 10 20 
+
+move constructor v2(v1)
+v1: 
+v2: 10 20 
+
+copy assignment v1 = v2
+v1: 10 20 
+v2: 10 20 
+
+v3: 100 200 300 
+
+ move assignment v2 = v3
+v2: 100 200 300 
+v3: 10 20 
+]777;notify;Command completed;./a.out]0;005670557@csusb.edu@jb358-15:~/cse330/lab4]7;file://jb358-15.cse.csusb.edu/home/csusb.edu/005670557/cse330/lab4[005670557@csusb.edu@jb358-15 lab4]$ exit
+
+Script done on 2018-02-05 15:45:31-0800

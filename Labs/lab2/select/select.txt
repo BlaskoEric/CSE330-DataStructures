@@ -1,0 +1,306 @@
+Script started on 2018-01-23 19:54:43-0800
+]0;005670557@csusb.edu@csevnc:~/cse330/lab2/select[005670557@csusb.edu@csevnc select]$ g++ 0[K-c select.cpp
+]0;005670557@csusb.edu@csevnc:~/cse330/lab2/select[005670557@csusb.edu@csevnc select]$ g_[K++ select.cpp
+]0;005670557@csusb.edu@csevnc:~/cse330/lab2/select[005670557@csusb.edu@csevnc select]$ tiem[K[Kme ./a.out > output
+1000
+
+real	0m2.959s
+user	0m0.021s
+sys	0m0.003s
+]0;005670557@csusb.edu@csevnc:~/cse330/lab2/select[005670557@csusb.edu@csevnc select]$ time ./a.out > output
+1000
+
+real	0m2.825s
+user	0m0.021s
+sys	0m0.004s
+]0;005670557@csusb.edu@csevnc:~/cse330/lab2/select[005670557@csusb.edu@csevnc select]$ time ./a.out > output
+1000
+
+real	0m1.842s
+user	0m0.019s
+sys	0m0.005s
+]0;005670557@csusb.edu@csevnc:~/cse330/lab2/select[005670557@csusb.edu@csevnc select]$ time ./a.out > output
+1000
+
+real	0m1.709s
+user	0m0.022s
+sys	0m0.002s
+]0;005670557@csusb.edu@csevnc:~/cse330/lab2/select[005670557@csusb.edu@csevnc select]$ time ./a.out > output
+1000
+
+real	0m2.633s
+user	0m0.022s
+sys	0m0.004s
+]0;005670557@csusb.edu@csevnc:~/cse330/lab2/select[005670557@csusb.edu@csevnc select]$ time ./a.out > output
+2000
+
+real	0m2.252s
+user	0m0.062s
+sys	0m0.003s
+]0;005670557@csusb.edu@csevnc:~/cse330/lab2/select[005670557@csusb.edu@csevnc select]$ time ./a.out > output
+2000
+
+real	0m2.183s
+user	0m0.058s
+sys	0m0.005s
+]0;005670557@csusb.edu@csevnc:~/cse330/lab2/select[005670557@csusb.edu@csevnc select]$ time ./a.out > output
+2000
+
+real	0m2.351s
+user	0m0.062s
+sys	0m0.003s
+]0;005670557@csusb.edu@csevnc:~/cse330/lab2/select[005670557@csusb.edu@csevnc select]$ time ./a.out > output
+222  000
+
+real	0m3.863s
+user	0m0.062s
+sys	0m0.004s
+]0;005670557@csusb.edu@csevnc:~/cse330/lab2/select[005670557@csusb.edu@csevnc select]$ time ./a.out > output
+2000
+
+real	0m1.837s
+user	0m0.061s
+sys	0m0.003s
+]0;005670557@csusb.edu@csevnc:~/cse330/lab2/select[005670557@csusb.edu@csevnc select]$ time ./a.out > output
+3000
+
+real	0m2.065s
+user	0m0.139s
+sys	0m0.004s
+]0;005670557@csusb.edu@csevnc:~/cse330/lab2/select[005670557@csusb.edu@csevnc select]$ time ./a.out > output
+3000
+
+real	0m2.242s
+user	0m0.146s
+sys	0m0.002s
+]0;005670557@csusb.edu@csevnc:~/cse330/lab2/select[005670557@csusb.edu@csevnc select]$ time ./a.out > output
+3000
+
+real	0m2.121s
+user	0m0.138s
+sys	0m0.005s
+]0;005670557@csusb.edu@csevnc:~/cse330/lab2/select[005670557@csusb.edu@csevnc select]$ time ./a.out > output
+3000
+
+real	0m2.352s
+user	0m0.133s
+sys	0m0.004s
+]0;005670557@csusb.edu@csevnc:~/cse330/lab2/select[005670557@csusb.edu@csevnc select]$ time ./a.out > output
+3000
+
+real	0m4.052s
+user	0m0.130s
+sys	0m0.004s
+]0;005670557@csusb.edu@csevnc:~/cse330/lab2/select[005670557@csusb.edu@csevnc select]$ time ./a.out > output
+4000
+
+real	0m10.444s
+user	0m0.220s
+sys	0m0.007s
+]0;005670557@csusb.edu@csevnc:~/cse330/lab2/select[005670557@csusb.edu@csevnc select]$ time ./a.out > output
+4000
+
+real	0m2.566s
+user	0m0.224s
+sys	0m0.004s
+]0;005670557@csusb.edu@csevnc:~/cse330/lab2/select[005670557@csusb.edu@csevnc select]$ time ./a.out > output
+4000
+
+real	0m2.364s
+user	0m0.286s
+sys	0m0.007s
+]0;005670557@csusb.edu@csevnc:~/cse330/lab2/select[005670557@csusb.edu@csevnc select]$ time ./a.out > output
+4000
+
+real	0m2.727s
+user	0m0.329s
+sys	0m0.013s
+]0;005670557@csusb.edu@csevnc:~/cse330/lab2/select[005670557@csusb.edu@csevnc select]$ time ./a.out > output
+4000
+
+real	0m2.940s
+user	0m0.223s
+sys	0m0.007s
+]0;005670557@csusb.edu@csevnc:~/cse330/lab2/select[005670557@csusb.edu@csevnc select]$ time ./a.out > output
+5000
+
+real	0m3.280s
+user	0m0.466s
+sys	0m0.009s
+]0;005670557@csusb.edu@csevnc:~/cse330/lab2/select[005670557@csusb.edu@csevnc select]$ time ./a.out > output
+5000
+
+real	0m2.361s
+user	0m0.350s
+sys	0m0.005s
+]0;005670557@csusb.edu@csevnc:~/cse330/lab2/select[005670557@csusb.edu@csevnc select]$ time ./a.out > output
+5000
+
+real	0m2.541s
+user	0m0.409s
+sys	0m0.011s
+]0;005670557@csusb.edu@csevnc:~/cse330/lab2/select[005670557@csusb.edu@csevnc select]$ time ./a.out > output
+5000
+
+real	0m2.353s
+user	0m0.347s
+sys	0m0.008s
+]0;005670557@csusb.edu@csevnc:~/cse330/lab2/select[005670557@csusb.edu@csevnc select]$ time ./a.out > output
+5000
+
+real	0m2.548s
+user	0m0.419s
+sys	0m0.009s
+]0;005670557@csusb.edu@csevnc:~/cse330/lab2/select[005670557@csusb.edu@csevnc select]$ time ./a.out > output
+6000
+
+real	0m2.535s
+user	0m0.488s
+sys	0m0.008s
+]0;005670557@csusb.edu@csevnc:~/cse330/lab2/select[005670557@csusb.edu@csevnc select]$ time ./a.out > output
+6000
+
+real	0m2.595s
+user	0m0.506s
+sys	0m0.009s
+]0;005670557@csusb.edu@csevnc:~/cse330/lab2/select[005670557@csusb.edu@csevnc select]$ time ./a.out > output
+6000
+
+real	0m3.375s
+user	0m0.747s
+sys	0m0.012s
+]0;005670557@csusb.edu@csevnc:~/cse330/lab2/select[005670557@csusb.edu@csevnc select]$ time ./a.out > output
+6000
+
+real	0m2.496s
+user	0m0.489s
+sys	0m0.008s
+]0;005670557@csusb.edu@csevnc:~/cse330/lab2/select[005670557@csusb.edu@csevnc select]$ time ./a.out > output
+6000
+
+real	0m2.523s
+user	0m0.522s
+sys	0m0.009s
+]0;005670557@csusb.edu@csevnc:~/cse330/lab2/select[005670557@csusb.edu@csevnc select]$ time ./a.out > output
+7000
+
+real	0m3.144s
+user	0m0.937s
+sys	0m0.012s
+]0;005670557@csusb.edu@csevnc:~/cse330/lab2/select[005670557@csusb.edu@csevnc select]$ time ./a.out > output
+7000
+
+real	0m2.757s
+user	0m0.668s
+sys	0m0.009s
+]0;005670557@csusb.edu@csevnc:~/cse330/lab2/select[005670557@csusb.edu@csevnc select]$ time ./a.out > output
+7000
+
+real	0m3.415s
+user	0m0.942s
+sys	0m0.009s
+]0;005670557@csusb.edu@csevnc:~/cse330/lab2/select[005670557@csusb.edu@csevnc select]$ time ./a.out > output
+7000
+
+real	0m3.393s
+user	0m0.892s
+sys	0m0.009s
+]0;005670557@csusb.edu@csevnc:~/cse330/lab2/select[005670557@csusb.edu@csevnc select]$ time ./a.out > output
+7000
+
+real	0m3.009s
+user	0m1.001s
+sys	0m0.010s
+]0;005670557@csusb.edu@csevnc:~/cse330/lab2/select[005670557@csusb.edu@csevnc select]$ time ./a.out > output
+8000
+
+real	0m3.774s
+user	0m1.212s
+sys	0m0.013s
+]0;005670557@csusb.edu@csevnc:~/cse330/lab2/select[005670557@csusb.edu@csevnc select]$ time ./a.out > output
+8000
+
+real	0m3.260s
+user	0m0.913s
+sys	0m0.008s
+]0;005670557@csusb.edu@csevnc:~/cse330/lab2/select[005670557@csusb.edu@csevnc select]$ time ./a.out > output
+8000
+
+real	0m2.922s
+user	0m0.889s
+sys	0m0.007s
+]0;005670557@csusb.edu@csevnc:~/cse330/lab2/select[005670557@csusb.edu@csevnc select]$ time ./a.out > output
+8000
+
+real	0m3.921s
+user	0m1.210s
+sys	0m0.010s
+]0;005670557@csusb.edu@csevnc:~/cse330/lab2/select[005670557@csusb.edu@csevnc select]$ time ./a.out > output
+8000
+
+real	0m3.087s
+user	0m1.206s
+sys	0m0.014s
+]0;005670557@csusb.edu@csevnc:~/cse330/lab2/select[005670557@csusb.edu@csevnc select]$ time ./a.out > output
+9000
+
+real	0m3.243s
+user	0m1.091s
+sys	0m0.010s
+]0;005670557@csusb.edu@csevnc:~/cse330/lab2/select[005670557@csusb.edu@csevnc select]$ time ./a.out > output
+9000
+
+real	0m3.284s
+user	0m1.124s
+sys	0m0.011s
+]0;005670557@csusb.edu@csevnc:~/cse330/lab2/select[005670557@csusb.edu@csevnc select]$ time ./a.out > output
+9000
+
+real	0m4.866s
+user	0m1.411s
+sys	0m0.009s
+]0;005670557@csusb.edu@csevnc:~/cse330/lab2/select[005670557@csusb.edu@csevnc select]$ time ./a.out > output
+9000
+
+real	0m3.514s
+user	0m1.645s
+sys	0m0.014s
+]0;005670557@csusb.edu@csevnc:~/cse330/lab2/select[005670557@csusb.edu@csevnc select]$ time ./a.out > output
+9000
+
+real	0m3.768s
+user	0m1.335s
+sys	0m0.011s
+]0;005670557@csusb.edu@csevnc:~/cse330/lab2/select[005670557@csusb.edu@csevnc select]$ time ./a.out > output
+10000
+
+real	0m6.757s
+user	0m1.348s
+sys	0m0.012s
+]0;005670557@csusb.edu@csevnc:~/cse330/lab2/select[005670557@csusb.edu@csevnc select]$ time ./a.out > output
+10000
+
+real	0m3.995s
+user	0m1.700s
+sys	0m0.012s
+]0;005670557@csusb.edu@csevnc:~/cse330/lab2/select[005670557@csusb.edu@csevnc select]$ time ./a.out > output
+10000
+
+real	0m4.131s
+user	0m1.356s
+sys	0m0.013s
+]0;005670557@csusb.edu@csevnc:~/cse330/lab2/select[005670557@csusb.edu@csevnc select]$ time ./a.out > output
+10000
+
+real	0m3.583s
+user	0m1.353s
+sys	0m0.012s
+]0;005670557@csusb.edu@csevnc:~/cse330/lab2/select[005670557@csusb.edu@csevnc select]$ time ./a.out > output
+10000
+
+real	0m5.090s
+user	0m1.374s
+sys	0m0.010s
+]0;005670557@csusb.edu@csevnc:~/cse330/lab2/select[005670557@csusb.edu@csevnc select]$ exit
+
+Script done on 2018-01-23 19:58:45-0800

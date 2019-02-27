@@ -1,0 +1,9 @@
+Script started on 2018-02-18 19:05:51-0800
+]0;005670557@csusb.edu@csevnc:~/cse330/lab6[005670557@csusb.edu@csevnc lab6]$ g_[K++ 0c[K[K-c Stack_tst1.[K[K[K[Kest1.cpp
+]0;005670557@csusb.edu@csevnc:~/cse330/lab6[005670557@csusb.edu@csevnc lab6]$ g++ Stack)[K_test1.o
+]0;005670557@csusb.edu@csevnc:~/cse330/lab6[005670557@csusb.edu@csevnc lab6]$ ./a.out
+6
+1.5
+]0;005670557@csusb.edu@csevnc:~/cse330/lab6[005670557@csusb.edu@csevnc lab6]$ exit
+
+Script done on 2018-02-18 19:06:28-0800

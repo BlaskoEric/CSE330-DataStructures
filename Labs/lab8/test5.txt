@@ -1,0 +1,91 @@
+Script started on 2018-03-06 20:40:37-0800
+]0;005670557@csusb.edu@csevnc:~/cse330/lab8[005670557@csusb.edu@csevnc lab8]$ g++ -c Set_test5.cpp
+]0;005670557@csusb.edu@csevnc:~/cse330/lab8[005670557@csusb.edu@csevnc lab8]$ g++ Set)[K_test4[K5.o
+]0;005670557@csusb.edu@csevnc:~/cse330/lab8[005670557@csusb.edu@csevnc lab8]$ ./a.out
+Print Tree
+100
+    L 50
+        L 40
+            L 30
+        R 75
+            L 60
+                L 55
+                    R 59
+                        L 57
+                            L 56
+                            R 58
+            R 80
+                R 90
+    R 110
+Iterate Over and Print Elements
+30 40 50 55 56 57 58 59 60 75 80 90 100 110 
+20
+Print Tree
+100
+    L 50
+        L 40
+            L 30
+        R 75
+            L 60
+                L 55
+                    R 59
+                        L 57
+                            L 56
+                            R 58
+            R 80
+                R 90
+    R 110
+Iterate Over and Print Elements
+30 40 50 55 56 57 58 59 60 75 80 90 100 110 
+40
+Print Tree
+100
+    L 50
+        L 30
+        R 75
+            L 60
+                L 55
+                    R 59
+                        L 57
+                            L 56
+                            R 58
+            R 80
+                R 90
+    R 110
+Iterate Over and Print Elements
+30 50 55 56 57 58 59 60 75 80 90 100 110 
+56
+Print Tree
+100
+    L 50
+        L 30
+        R 75
+            L 60
+                L 55
+                    R 59
+                        L 57
+                            R 58
+            R 80
+                R 90
+    R 110
+Iterate Over and Print Elements
+30 50 55 57 58 59 60 75 80 90 100 110 
+100
+Print Tree
+110
+    L 50
+        L 30
+        R 75
+            L 60
+                L 55
+                    R 59
+                        L 57
+                            R 58
+            R 80
+                R 90
+Iterate Over and Print Elements
+30 50 55 57 58 59 60 75 80 90 110 
+^C
+]0;005670557@csusb.edu@csevnc:~/cse330/lab8[005670557@csusb.edu@csevnc lab8]$ exit
+
+Script done on 2018-03-06 20:41:17-0800

@@ -1,0 +1,15 @@
+Script started on 2018-02-08 16:29:56-0800
+]0;005670557@csusb.edu@jb358-0:~/cse330/hw2[005670557@csusb.edu@jb358-0 hw2]$ g++ -c test2.cpp
+]0;005670557@csusb.edu@jb358-0:~/cse330/hw2[005670557@csusb.edu@jb358-0 hw2]$ g++ test2.cpp
+]0;005670557@csusb.edu@jb358-0:~/cse330/hw2[005670557@csusb.edu@jb358-0 hw2]$ a.[K[K./a.out
+Enter size: 10
+7 4 2 5 6 9 3 0 1 8 
+]0;005670557@csusb.edu@jb358-0:~/cse330/hw2[005670557@csusb.edu@jb358-0 hw2]$ ./a.out
+Enter size: 15
+3 4 1 12 8 11 7 13 2 5 6 0 14 9 10 
+]0;005670557@csusb.edu@jb358-0:~/cse330/hw2[005670557@csusb.edu@jb358-0 hw2]$ ./a.out
+Enter size: 20
+15 14 12 3 18 7 9 1 2 5 6 8 19 16 13 0 4 17 11 10 
+]0;005670557@csusb.edu@jb358-0:~/cse330/hw2[005670557@csusb.edu@jb358-0 hw2]$ exit
+
+Script done on 2018-02-08 16:30:28-0800

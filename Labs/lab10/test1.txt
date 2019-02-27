@@ -1,0 +1,17 @@
+Script started on 2018-03-19 08:14:03-0700
+]0;005670557@csusb.edu@jb358-1:~/cse330/lab10[005670557@csusb.edu@jb358-1 lab10]$ g__[K[K++ 0c [K[K[K-c Priority_queue_test1.cpp
+]0;005670557@csusb.edu@jb358-1:~/cse330/lab10[005670557@csusb.edu@jb358-1 lab10]$ g++ Priority_queue_test1.o
+]0;005670557@csusb.edu@jb358-1:~/cse330/lab10[005670557@csusb.edu@jb358-1 lab10]$ ./a.out
+1
+2
+3
+4
+5
+4
+3
+2
+1
+5 4 4 3 3 2 2 1 1 
+]0;005670557@csusb.edu@jb358-1:~/cse330/lab10[005670557@csusb.edu@jb358-1 lab10]$ exit
+
+Script done on 2018-03-19 08:14:44-0700

@@ -1,0 +1,36 @@
+Script started on 2018-03-12 15:22:21-0700
+]777;notify;Command completed;exit]0;005670557@csusb.edu@jb358-26:~/cse330/lab9]7;file://jb358-26.cse.csusb.edu/home/csusb.edu/005670557/cse330/lab9[005670557@csusb.edu@jb358-26 lab9]$ g++ e-c [K[K[K[K-c Unordered_map_test1.cpp
+]777;notify;Command completed;g++ -c Unordered_map_test1.cpp]0;005670557@csusb.edu@jb358-26:~/cse330/lab9]7;file://jb358-26.cse.csusb.edu/home/csusb.edu/005670557/cse330/lab9[005670557@csusb.edu@jb358-26 lab9]$ g++ Unordered_map_test1.o
+]777;notify;Command completed;g++ Unordered_map_test1.o]0;005670557@csusb.edu@jb358-26:~/cse330/lab9]7;file://jb358-26.cse.csusb.edu/home/csusb.edu/005670557/cse330/lab9[005670557@csusb.edu@jb358-26 lab9]$ a[K.a/[K[K/a.op[Kut
+h # count = 7
+h size = 0
+Insert a few pairs
+h # count = 7
+h size = 6
+Lookup a few values
+Brown:45 First
+Green:
+Jack:500 E St
+One move:
+h # count = 7
+h size = 8
+h Everything
+bucket[0] size=3 (Jake:2 Sierra Madre) (Blue:20 2nd St) (Red:123 Main) 
+bucket[1] size=1 (One more:) 
+bucket[2] size=1 (Brown:45 First) 
+bucket[3] size=0 
+bucket[4] size=1 (Jack:500 E St) 
+bucket[5] size=0 
+bucket[6] size=2 (Green:) (Jill:400 Lakewood) 
+Modify Red's value
+h Again
+bucket[0] size=3 (Jake:2 Sierra Madre) (Blue:20 2nd St) (Red:1234 Main St) 
+bucket[1] size=1 (One more:) 
+bucket[2] size=1 (Brown:45 First) 
+bucket[3] size=0 
+bucket[4] size=1 (Jack:500 E St) 
+bucket[5] size=0 
+bucket[6] size=2 (Green:) (Jill:400 Lakewood) 
+]777;notify;Command completed;./a.out]0;005670557@csusb.edu@jb358-26:~/cse330/lab9]7;file://jb358-26.cse.csusb.edu/home/csusb.edu/005670557/cse330/lab9[005670557@csusb.edu@jb358-26 lab9]$ exit
+
+Script done on 2018-03-12 15:22:54-0700
